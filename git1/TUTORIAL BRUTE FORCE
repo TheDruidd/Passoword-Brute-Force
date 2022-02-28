@@ -1,0 +1,10 @@
+TUTORIAL
+ UTILIZZATE VISUAL STUDIO CODE PER FARLO.
+ SCARICATE GO DA https://go.dev/dl/
+ DOPO AVER INSTALLATO ANCHE TUTTE LE ESTENSIONI CONSIGLIATE, POTRETE TESTARLO.
+ APRITE VSC E APRITE LA CARTELLA "GIT1" CHE AVETE SCARICATO.
+ CREATE UN NUOVO TERMINALE E SCRIVETE "go run git1.go"
+ una volta fatto vi uscirà scritto di inserire la password, voi ne metterete una a vostro piacere ( ve ne consiglio una di massimo 3 caratteri per fare in fretta)
+ ora aspettate che il brute force provi tutte le combinazioni fino a trovare quella giusta!
+ 
+ VIDEO TUTORIAL: https://streamable.com/52h5fo
