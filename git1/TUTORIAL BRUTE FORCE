@@ -8,6 +8,7 @@ UTILIZZATE VISUAL STUDIO CODE PER FARLO.
  APRITE VSC E APRITE LA CARTELLA "GIT1" CHE AVETE SCARICATO.
  CREATE UN NUOVO TERMINALE E SCRIVETE "go run git1.go"
  una volta fatto vi uscirà scritto di inserire la password, voi ne metterete una a vostro piacere ( ve ne consiglio una di massimo 3 caratteri per fare in fretta)
+ elenco di tutti i caratteri: ("àèìòù\|!"£$%&/()=?^é*ç°§;,:._-[]@#€<>+") inseriteli alla riga 10 nelle parentesi dopo il 9
  ora aspettate che il brute force provi tutte le combinazioni fino a trovare quella giusta!
  
 OVVIAMENTE, LO SCRIPT NON E' ANCORA UTILIZZABILE PER HACKERARE VERE E PROPRIE PASSWORD IN QUANTO E' UNO SCRIPT E NON UN PROGRAMMA ESEGUIBILE PIU' VOLTE E NON E' PROGRAMMATO PER 
